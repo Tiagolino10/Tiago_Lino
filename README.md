@@ -1,6 +1,6 @@
-# Olá, eu sou um Desenvolvedor Full Stack! 👋
+# Olá, Bem-vindo ao meu GitHub de desenvolvedor! 👋
 
-## 🚀 Sobre mim
+## 🚀 Um pouco sobre mim!
 Sou um entusiasta de tecnologia focado em construir soluções eficientes e escaláveis. Adoro transformar ideias em código e estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades no ecossistema de desenvolvimento web.
 
 ---
